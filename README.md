@@ -31,4 +31,4 @@ As of April 2022 we noticed that some accession numbers were not accessible in E
   
 Note that scans of the logsheets can be found in the PANGEA record. 
 
-Also provided via this OSD Github space are the OSD2019 (https://github.com/ocean-sampling-day/ToPublish/tree/main/IMIS/OSD2019) and OSD2018 data (https://github.com/ocean-sampling-day/ToPublish/tree/main/IMIS/OSD2018).
+Also provided via this OSD Github space are the data and documentation from OSD2019 (https://github.com/ocean-sampling-day/OSD2019) and OSD2018  (https://github.com/ocean-sampling-day/OSD2018).
