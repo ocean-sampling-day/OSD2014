@@ -22,12 +22,13 @@ The omics data are the ENA BioSample and Sample accession numbers for the sequen
   - [OSD14Metadata_Pangea2IMIS_columns.csv](https://github.com/ocean-sampling-day/ToPublish/blob/main/IMIS/OSD2014/OSD14Metadata_Pangea2IMIS_columns.csv) shows the relationship between the column titles as used in these two catalogues, 
   - [OSD14_Metadata_Pangea2IMIS_values.csv](https://github.com/ocean-sampling-day/ToPublish/blob/main/IMIS/OSD2014/OSD14_Metadata_Pangea2IMIS_values.csv) shows the formatted we used in IMIS for the event and sample IDs compared to those used in PANGEA
 * A list of the details of the OSD stations [OSDStations.csv](https://github.com/ocean-sampling-day/ToPublish/blob/main/IMIS/OSD2014/OSDStations.csv)
+* A CSV file containing the ENA Sample and Run accession numbers, the sample title (aka SampleID), and the target gene (being 16S, 18S, or MG=metagenomics) is provided here as [OSD2014_AccessionNumbers.csv](https://raw.githubusercontent.com/ocean-sampling-day/OSD2014/main/OSD2014_AccessionNumbers.csv).
 
 
-As of April 2022 we noticed that some accession numbers were missing:
+As of April 2022 we noticed that some accession numbers were not accessible in ENA:
   1. Eight accession numbers in our CSV data file are not present in ENA and do not have any associated ENA information (more specifically: SAMEA3275501, SAMEA3275510, SAMEA3275511, SAMEA3275513, SAMEA3275528, SAMEA3275566, SAMEA3275569, SAMEA3275587, SAMEA3275606, SAMEA3275613, SAMEA3275644).
   2. Two accession numbers in ENA were missing from our CSV data file (more specifically: SAMEA3282990, SAMEA3340641). These have now been added to the CSV data file.
   
 Note that scans of the logsheets can be found in the PANGEA record. 
 
-Also provided via this Github space are the OSD2019 (https://github.com/ocean-sampling-day/ToPublish/tree/main/IMIS/OSD2019) and OSD2018 data (https://github.com/ocean-sampling-day/ToPublish/tree/main/IMIS/OSD2018).
+Also provided via this OSD Github space are the OSD2019 (https://github.com/ocean-sampling-day/ToPublish/tree/main/IMIS/OSD2019) and OSD2018 data (https://github.com/ocean-sampling-day/ToPublish/tree/main/IMIS/OSD2018).
