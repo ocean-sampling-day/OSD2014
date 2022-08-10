@@ -4838,9 +4838,9 @@
 @prefix qudt: <http://qudt.org/schema/qudt/> . 
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://raw.githubusercontent.com/ocean-sampling-day/ToPublish/main/IMIS/OSD2014/OSD14Data_version1.csv#OSD152_2014-06_NPL022_2>
+<https://raw.githubusercontent.com/ocean-sampling-day/ToPublish/main/IMIS/OSD2014/OSD14Data_version1.csv#OSD152_2014-06_NPL022_3>
 	a schema:event, sosa:Sampling;
-	schema:identifier 'OSD152_2014-06_NPL022_2'^^xsd:string;
+	schema:identifier 'OSD152_2014-06_NPL022_3'^^xsd:string;
 	schema:identifier 'OSD152_2014-06-20_5m_NPL022'^^xsd:string;
 	schema:identifier 'OSD2014'^^xsd:string;
 	schema:identifier 'OSD152'^^xsd:string;
@@ -4861,7 +4861,7 @@
 	schema:location 'neritic epipelagic zone biome ENVO:01000042'^^xsd:string;
 	schema:description 'natural harbor ENVO:00000465'^^xsd:string;
 	schema:description 'coastal sea water ENVO:00002150'^^xsd:string;
-	sosa:madeBySampler <https://raw.githubusercontent.com/ocean-sampling-day/ToPublish/main/IMIS/OSD2014/OSD14Data_version1.csv#OSD152_2014-06_NPL022_2,10L%20Niskin>;
+	sosa:madeBySampler <https://raw.githubusercontent.com/ocean-sampling-day/ToPublish/main/IMIS/OSD2014/OSD14Data_version1.csv#OSD152_2014-06_NPL022_3,10L%20Niskin>;
 	schema:description '5m - cast 2'^^xsd:string;
 	sosa:usedProcedure 'NPL022 (Protocol A)'^^xsd:string;
 	schema:identifier <https://www.ebi.ac.uk/ena/browser/view/#SAMEA3275502>;
@@ -4902,7 +4902,7 @@
 	];
 .
 
-<https://raw.githubusercontent.com/ocean-sampling-day/ToPublish/main/IMIS/OSD2014/OSD14Data_version1.csv#OSD152_2014-06_NPL022_2,10L%20Niskin> 
+<https://raw.githubusercontent.com/ocean-sampling-day/ToPublish/main/IMIS/OSD2014/OSD14Data_version1.csv#OSD152_2014-06_NPL022_3,10L%20Niskin> 
 	a sosa:Sampler;
 	sosa:ishostedBy 'dive vessel, Eastcom'^^xsd:string;
 .
