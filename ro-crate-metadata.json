@@ -14,6 +14,23 @@
         {
             "@id": "./",
             "@type": "Dataset",
+            "name":"Ocean Sampling Day 2014, registry of samples and environmental measurements from 2014",
+            "alternateName":"OSD2014",
+            "abstract":"Ocean Sampling Day is a simultaneous sampling campaign of the world's oceans which took place for the first time on the summer solstice of 2014, and was picked up again in 2018. Water samples and environmental measurements were made by the OSD participants, with the water samples being processed into DNA sequences.",
+            "description":"Ocean Sampling Day was a project that began in 2014 and in 2018 the OSD network was picked up by the Horizon 2020 project ASSEMBLE Plus. During each Ocean Sampling Day, water samples are taken from locations scattered over the globe and they are shipped to a central location for genomic sequencing. Environmental measurements are made and recorded in logsheets. All activities follow a set of protocols and the environmental data conform to standard vocabularies. The data from 2014 is published in PANGEA (https://doi.org/10.1594.PANGEA.854419), while the metadata records for the OSD 2018+ events can be found here in IMIS (see the related datasets listed in this record). The original OSD2014 data should be accessed via PANGEA; however, as the OSD2018+ data are provided via IMIS and via the OSD Github site (see data links in this record) in machine-accessible and annotated formats, we have also provided the OSD2014 data in machine-accessible and annotated formats via the OSD Github site. Those data consist of: a CSV file with the IDs, dates, locations, environmental measurements, and the IDs of the data in ENA (European Nucleotide Archive); a CSV file containing the metadata descriptions of those data; the protocols and the OSD Handbook.",
+            "license":"https://spdx.org/licenses/CC-BY-4.0.html",
+            "temporalCoverage":"2014-06-21/..",
+            "keywords":["ASSEMBLEPlus Joint Research Activity 1", "Biodiversity","Biological sampling","Data","Environmental surveys","Marine metagenome","Metabarcoding","Metagenomics","Nucleic acids"],
+            "contributor":[
+                {"@id": "https://orcid.org/0000-0003-4242-4015"},
+                {"@id": "https://marineinfo.org/id/institute/6367"},
+                {"@id": "https://orcid.org/0000-0001-7954-7057"},
+                {"@id": "https://marineinfo.org/id/institute/12810"},
+                {"@id": "https://marineinfo.org/id/dataset/8044"},
+                {"@id": "https://marineinfo.org/id/institute/3083"},
+                {"@id": "https://orcid.org/0000-0002-5911-1536"},
+                {"@id": "https://marineinfo.org/id/institute/36"}
+            ],
             "datePublished": "2021-11-25T11:27:08+00:00",
             "citation": {
                 "@id": "https://marineinfo.org/id/dataset/8044"
