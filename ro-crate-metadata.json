@@ -1,1 +1,153 @@
-{"@context": "https://w3id.org/ro/crate/1.1/context", "@graph": [{"@id": "./ro-crate-metadata.json", "@type": "CreativeWork", "about": {"@id": "./"}, "conformsTo": {"@id": "https://w3id.org/ro/crate/1.1"}}, {"@id": "./", "@type": "Dataset", "datePublished": "2021-11-25T11:27:08+00:00", "hasPart": [{"@id": "./Documentation/"}, {"@id": "./PEMAanalysis/"}, {"@id": "./LICENSE"}, {"@id": "./OSD14Data_version1.csv"}, {"@id": "./OSD14Data_version1.ldt"}, {"@id": "./OSD14Data_version1.ttl"}, {"@id": "./OSD14Metadata_HumanReadable_version1.csv"}, {"@id": "./OSD14Metadata_MachineReadable_version1.csv"}, {"@id": "./OSD14Metadata_Pangea2IMIS_columns.csv"}, {"@id": "./OSD14_Metadata_Pangea2IMIS_values.csv"}, {"@id": "./OSD2014_AccessionNumbers.csv"}, {"@id": "./README.md"}]}, {"@id": "./Documentation/", "@type": "Dataset", "hasPart": [{"@id": "./Documentation/OSD2014_protocol_A_sterivex_filtration_methods.pdf"}, {"@id": "./Documentation/OSD2014_protocol_B_18S_V4andV9_Sequencing_LifeWath_MoBiLab_BARI.pdf"}, {"@id": "./Documentation/OSDStations.csv"}, {"@id": "./Documentation/OSD_Handbook_2014-06.pdf"}, {"@id": "./Documentation/README.md"}]}, {"@id": "./Documentation/OSD2014_protocol_A_sterivex_filtration_methods.pdf", "@type": "File"}, {"@id": "./Documentation/OSD2014_protocol_B_18S_V4andV9_Sequencing_LifeWath_MoBiLab_BARI.pdf", "@type": "File"}, {"@id": "./Documentation/OSDStations.csv", "@type": "File"}, {"@id": "./Documentation/OSD_Handbook_2014-06.pdf", "@type": "File"}, {"@id": "./Documentation/README.md", "@type": "File"}, {"@id": "./PEMAanalysis/", "@type": "Dataset", "hasPart": [{"@id": "./PEMAanalysis/README.md"}]}, {"@id": "./PEMAanalysis/README.md", "@type": "File"}, {"@id": "./LICENSE", "@type": "File"}, {"@id": "./OSD14Data_version1.csv", "@type": "File"}, {"@id": "./OSD14Data_version1.ldt", "@type": "File"}, {"@id": "./OSD14Data_version1.ttl", "@type": "File"}, {"@id": "./OSD14Metadata_HumanReadable_version1.csv", "@type": "File"}, {"@id": "./OSD14Metadata_MachineReadable_version1.csv", "@type": "File"}, {"@id": "./OSD14Metadata_Pangea2IMIS_columns.csv", "@type": "File"}, {"@id": "./OSD14_Metadata_Pangea2IMIS_values.csv", "@type": "File"}, {"@id": "./OSD2014_AccessionNumbers.csv", "@type": "File"}, {"@id": "./README.md", "@type": "File"}]}
+{
+    "@context": "https://w3id.org/ro/crate/1.1/context",
+    "@graph": [
+        {
+            "@id": "./ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "about": {
+                "@id": "./"
+            },
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            }
+        },
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "datePublished": "2021-11-25T11:27:08+00:00",
+            "citation": "https://marineinfo.org/id/dataset/8044",
+            "hasPart": [
+                {
+                    "@id": "./Documentation/"
+                },
+                {
+                    "@id": "./PEMAanalysis/"
+                },
+                {
+                    "@id": "./LICENSE"
+                },
+                {
+                    "@id": "./OSD14Data_version1.csv"
+                },
+                {
+                    "@id": "./OSD14Data_version1.ldt"
+                },
+                {
+                    "@id": "./OSD14Data_version1.ttl"
+                },
+                {
+                    "@id": "./OSD14Metadata_HumanReadable_version1.csv"
+                },
+                {
+                    "@id": "./OSD14Metadata_MachineReadable_version1.csv"
+                },
+                {
+                    "@id": "./OSD14Metadata_Pangea2IMIS_columns.csv"
+                },
+                {
+                    "@id": "./OSD14_Metadata_Pangea2IMIS_values.csv"
+                },
+                {
+                    "@id": "./OSD2014_AccessionNumbers.csv"
+                },
+                {
+                    "@id": "./README.md"
+                }
+            ]
+        },
+        {
+            "@id": "./Documentation/",
+            "@type": "Dataset",
+            "hasPart": [
+                {
+                    "@id": "./Documentation/OSD2014_protocol_A_sterivex_filtration_methods.pdf"
+                },
+                {
+                    "@id": "./Documentation/OSD2014_protocol_B_18S_V4andV9_Sequencing_LifeWath_MoBiLab_BARI.pdf"
+                },
+                {
+                    "@id": "./Documentation/OSDStations.csv"
+                },
+                {
+                    "@id": "./Documentation/OSD_Handbook_2014-06.pdf"
+                },
+                {
+                    "@id": "./Documentation/README.md"
+                }
+            ]
+        },
+        {
+            "@id": "./Documentation/OSD2014_protocol_A_sterivex_filtration_methods.pdf",
+            "@type": "File"
+        },
+        {
+            "@id": "./Documentation/OSD2014_protocol_B_18S_V4andV9_Sequencing_LifeWath_MoBiLab_BARI.pdf",
+            "@type": "File"
+        },
+        {
+            "@id": "./Documentation/OSDStations.csv",
+            "@type": "File"
+        },
+        {
+            "@id": "./Documentation/OSD_Handbook_2014-06.pdf",
+            "@type": "File"
+        },
+        {
+            "@id": "./Documentation/README.md",
+            "@type": "File"
+        },
+        {
+            "@id": "./PEMAanalysis/",
+            "@type": "Dataset",
+            "hasPart": [
+                {
+                    "@id": "./PEMAanalysis/README.md"
+                }
+            ]
+        },
+        {
+            "@id": "./PEMAanalysis/README.md",
+            "@type": "File"
+        },
+        {
+            "@id": "./LICENSE",
+            "@type": "File"
+        },
+        {
+            "@id": "./OSD14Data_version1.csv",
+            "@type": "File"
+        },
+        {
+            "@id": "./OSD14Data_version1.ldt",
+            "@type": "File"
+        },
+        {
+            "@id": "./OSD14Data_version1.ttl",
+            "@type": "File"
+        },
+        {
+            "@id": "./OSD14Metadata_HumanReadable_version1.csv",
+            "@type": "File"
+        },
+        {
+            "@id": "./OSD14Metadata_MachineReadable_version1.csv",
+            "@type": "File"
+        },
+        {
+            "@id": "./OSD14Metadata_Pangea2IMIS_columns.csv",
+            "@type": "File"
+        },
+        {
+            "@id": "./OSD14_Metadata_Pangea2IMIS_values.csv",
+            "@type": "File"
+        },
+        {
+            "@id": "./OSD2014_AccessionNumbers.csv",
+            "@type": "File"
+        },
+        {
+            "@id": "./README.md",
+            "@type": "File"
+        }
+    ]
+}
